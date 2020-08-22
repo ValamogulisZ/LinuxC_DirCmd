@@ -1,6 +1,5 @@
-#Name: Wenda Zhao
-#Blazerid: wenda
-#Project #: 1
+# Dir Command
+# Author: Wenda Zhao
 
 #find
 
